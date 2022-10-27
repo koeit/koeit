@@ -12,7 +12,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=koeit&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=koeit&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=koeit&label=Profile%20views&color=0e75b6&style=flat" alt="koeit" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koeit" alt="koeit" /></a> </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=koeit&icon=6&color=1)](https://visitcount.itsvg.in)
